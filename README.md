@@ -1,9 +1,15 @@
 
-<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Olá, prazer em conhecer voçê! 😀</h1>
+<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Olá, prazer em conhecer voçê! 🙂</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJunkes&layout=compact)
+<div style="display: inline block">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJunkes&layout=compact)
+  
+  <img src=https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif>
+</div>
 
 <h2>Linguagens e Tecnologias</h2>
+
 <div style="display: inline block"><br> 
   <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
   <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)>
