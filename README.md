@@ -1,5 +1,5 @@
 
-<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Olá, prazer em conhecer voçê! <img width = 4% src=https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif>🙂</h1>
+<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Olá, prazer em conhecer você! <img width = 4% src=https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif>🙂</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJunkes&layout=compact)
   
